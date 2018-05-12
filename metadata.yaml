@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25004'
     url: http://www.gutenberg.org/2009/agents/25004
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21976#Three-Years-in-the-Sixth-Corpsfrom-1861-to-the-Close-of-the-Rebellion-April-1865
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2007-06-30'
 gutenberg_type: Text
